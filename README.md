@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Arif 👋</h1>
 <p align="center">🌸 Final Year Informatics Engineering Student at UHAMKA</p>
-<p align="center">📊 Passionate in Dashboards • Web Development • Data Visualization</p>
+<p align="center">📊 Passionate in Web Development • Data Visualization • Data Analyst</p>
 
 ---
 
