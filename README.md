@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, I'm Arif 👋</h1>
+<h1 align="center">Hi there, I'm Muhamad Saiful Arif</h1>
+<h3 align="center">My Nickname Arif 👋</h1>
 <p align="center">🌸 Final Year Informatics Engineering Student at UHAMKA</p>
 <p align="center">📊 Passionate in Web Development • Data Visualization • Data Analyst</p>
 
