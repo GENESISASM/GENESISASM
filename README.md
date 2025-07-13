@@ -33,14 +33,4 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GENESISASM&show_icons=true&theme=graywhite&hide_border=true&icon_color=FCD5CE&title_color=999999&text_color=666666">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=GENESISASM&theme=soft-gray&hide_border=true&date_format=M%20j[, %Y]"/>
-</p>
-
----
-
 <sub><center>🧠 Long live learner. Always growing, always exploring.</center></sub>
