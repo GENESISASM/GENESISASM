@@ -18,12 +18,6 @@
 
 ---
 
-### 💼 Currently Working On
-- 🎯 **Dashboard Monitoring Peserta Pendidikan Korporasi** sebagai Tugas Akhir
-- 📚 Belajar **Next.js**, **Express**, dan integrasi API untuk UI modern
-
----
-
 ### 🌐 Let’s Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/GENESISASM"><img src="https://img.shields.io/badge/LinkedIn- pastel?style=flat&logo=linkedin&logoColor=black&color=DBDFFA"></a>
