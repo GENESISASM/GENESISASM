@@ -7,13 +7,13 @@
 ### 🔧 Tech Stack
 
 <p align="left">
+  <img src="https://img.shields.io/badge/-Python-FCD5CE?style=for-the-badge&logo=python&logoColor=black">
+  <img src="https://img.shields.io/badge/-JavaScript-FFE0AC?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/-Node.js-CBF1F5?style=for-the-badge&logo=node.js&logoColor=black">
   <img src="https://img.shields.io/badge/-HTML5-EADFB4?style=for-the-badge&logo=html5&logoColor=black">
   <img src="https://img.shields.io/badge/-CSS3-DBDFFA?style=for-the-badge&logo=css3&logoColor=black">
-  <img src="https://img.shields.io/badge/-JavaScript-FFE0AC?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/-React-FCD5CE?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/-TailwindCSS-C3F0CA?style=for-the-badge&logo=tailwind-css&logoColor=black">
-  <img src="https://img.shields.io/badge/-Node.js-CBF1F5?style=for-the-badge&logo=node.js&logoColor=black">
   <img src="https://img.shields.io/badge/-PostgreSQL-F9F3DF?style=for-the-badge&logo=postgresql&logoColor=black">
+  <img src="https://img.shields.io/badge/-MySQL-D2E0FB?style=for-the-badge&logo=mysql&logoColor=black">
 </p>
 
 ---
