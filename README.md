@@ -21,8 +21,8 @@
 ### 🌐 Let’s Connect
 <p align="left">
   <a href="in/muhamad-saiful-arif-8529432a2"><img src="https://img.shields.io/badge/LinkedIn- pastel?style=flat&logo=linkedin&logoColor=black&color=DBDFFA"></a>
-  <a href="https://public.tableau.com/app/profile/muhamad.saiful.arif/vizzes"><img src="https://img.shields.io/badge/GitHub- pastel?style=flat&logo=github&logoColor=black&color=FFE0AC"></a>
-  <a href="https://bit.ly/IG_m_saiarf14"><img src="https://img.shields.io/badge/Tableau%20Public-F9F3DF?style=flat&logo=tableau&logoColor=black&color=F9F3DF"></a>
+  <a href="https://public.tableau.com/app/profile/muhamad.saiful.arif/vizzes"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" width="100" alt="Tableau Public"/></a>
+  <a href="https://bit.ly/IG_m_saiarf14"><img src="https://img.shields.io/badge/Instagram- pastel?style=flat&logo=instagram&logoColor=black&color=FCD5CE"></a>
 </p>
 
 ---
