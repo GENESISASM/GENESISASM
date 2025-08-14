@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhamad Saiful Arif</h1>
-<h3 align="center">A passionate backend developer from Indonesia</h3>
+<h3 align="center">A Fresh graduate from Muhammadiyah University Prof. Dr. Hamka with 1 year internship experience as a Data Analyst and passionate for backend development</h3>
 
 - 📫 How to reach me **mhmdsaifularf@gmail.com**
 
