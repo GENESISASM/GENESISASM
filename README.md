@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhamad Saiful Arif</h1>
-<h4 align="center">🎓 Informatics Engineering Graduate | 📊 Data Analyst Enthusiast | 💻 Backend Development Enthusiast</h4>
+<h3 align="center">🎓 Informatics Engineering Graduate | 📊 Data Analyst Enthusiast | 💻 Backend Development Enthusiast</h3>
 
 ---
 
@@ -8,7 +8,7 @@
 ---
 ## 🌟 About Me  
 
-> <h5 align="center"> *Long Live Learner* </h5>
+> <h4 align="center"> Long Live Learner </h4>
 ---
 
 <h3 align="center">🌐 Connect with me:</h3>
