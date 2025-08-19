@@ -2,9 +2,9 @@
 <h3 align="center">🎓 Informatics Engineering Graduate | 📊 Data Analyst Enthusiast | 💻 Backend Development Enthusiast</h3>
 
 ---
-
+<h3 align="center">
 📫 How to reach me: **mhmdsaifularf@gmail.com**
-
+</h3>
 ---
 
 <h3 align="center">🌐 Connect with me:</h3>
