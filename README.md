@@ -6,6 +6,10 @@
 - 📫 How to reach me: **mhmdsaifularf@gmail.com**
 
 ---
+## 🌟 About Me  
+
+*Long Live Learner* 
+---
 
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
