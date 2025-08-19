@@ -8,7 +8,7 @@
 ---
 ## 🌟 About Me  
 
-*Long Live Learner* 
+> <small> *Long Live Learner* 
 ---
 
 <h3 align="center">🌐 Connect with me:</h3>
