@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhamad Saiful Arif</h1>
-<h3 align="center">A Fresh Graduate from Muhammadiyah University Prof. Dr. Hamka with 1 year internship experience as a Data Analyst and passionate for Backend Development</h3>
+<h3 align="center">🎓 Informatics Engineering Graduate | 📊 Data Analyst Enthusiast | 💻 Backend Development Enthusiast</h3>
 
 ---
 
