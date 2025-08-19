@@ -3,10 +3,10 @@
 
 ---
 
-- 📫 How to reach me: **mhmdsaifularf@gmail.com**
+📫 How to reach me: **mhmdsaifularf@gmail.com**
 
 ---
-## 🌟 About Me  
+<h3 align="center">🌟 About Me </h3>
 
 > <h4 align="center"> Long Live Learner </h4>
 ---
