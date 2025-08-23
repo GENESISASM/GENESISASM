@@ -58,5 +58,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=genesisasm&show_icons=true&locale=en&layout=compact" alt="genesisasm" />
+  ![Top Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs?username=genesisasm&layout=pie&show_icons=true&langs_count=6&theme=radical)
 </p>
