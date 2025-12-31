@@ -58,6 +58,6 @@
 ---
 
 <div align="center">
-  <p>Thanks for visiting my profile! 🚀</p>
-  <p>© 📚 Lifelong Learner 📚 </p>
+  <p>🚀 Thanks for visiting my profile! 🚀</p>
+  <p> 📚 Lifelong Learner 📚 </p>
 </div>
