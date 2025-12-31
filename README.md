@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhamad Saiful Arif</h1>
-<h3 align="center">🎓 Informatics Engineering Graduate | 📊 Data Enthusiast | 💻 Tech Enthusiast | 💻 Backend Engineer Jr</h3>
+<h3 align="center">🎓 Informatics Engineering Graduate | 📊 Data Enthusiast <br> | 💻 Tech Enthusiast | 💻 Backend Engineer Jr</h3>
 
 ---
 
