@@ -55,3 +55,12 @@
 </p>
 
 ---
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=GENESISASM&show_icons=true&theme=radical" alt="github stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GENESISASM&layout=compact&theme=radical" alt="top languages" height="150" />
+  <br>
+  <p>Thanks for visiting my profile! 🚀</p>
+  <p>© 📚 Lifelong Learner 📚 </p>
+</div>
