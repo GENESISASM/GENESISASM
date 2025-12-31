@@ -3,10 +3,6 @@
 
 ---
 
-📫 How to reach me: **mhmdsaifularf@gmail.com**
-
----
-
 <h3 align="center">🌐 Connect with me:</h3>
 <p align="center">
   <a href="https://twitter.com/a_aariiff" target="blank">
@@ -17,6 +13,9 @@
   </a>
   <a href="https://instagram.com/m_saiarf14" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="20" width="30" />
+  </a>
+  <a href="mailto:mhmdsaifularf@gmail.com?subject=Hi%20Saiful,%20I%20saw%20your%20GitHub" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="mhmdsaifularf@gmail.com" height="30" width="40" />
   </a>
 </p>
 
